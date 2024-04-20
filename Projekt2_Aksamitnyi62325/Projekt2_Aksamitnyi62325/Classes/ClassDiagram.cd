@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.Figures" Collapsed="true">
+    <Position X="37.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgQAKAAAAAABCgrAAABEAAAAEAEAIwAKAAEAGAAAAAA=</HashCode>
+      <FileName>Classes\Figures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.BazierLine" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\BazierLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.Circle" Collapsed="true">
+    <Position X="19" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.CurveLine" Collapsed="true">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACAAAAQAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\CurveLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.Ellipse" Collapsed="true">
+    <Position X="32.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Ellipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.FillCircle" Collapsed="true">
+    <Position X="19" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\FillCircle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.FillEllipse" Collapsed="true">
+    <Position X="32.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\FillEllipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.FillPolygon" Collapsed="true">
+    <Position X="28" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\FillPolygon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.FillRectangle" Collapsed="true">
+    <Position X="25.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\FillRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.FillRhombus" Collapsed="true">
+    <Position X="34.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\FillRhombus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.FillSquare" Collapsed="true">
+    <Position X="21.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\FillSquare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.FillTrapeze" Collapsed="true">
+    <Position X="23.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\FillTrapeze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.FillTriangle" Collapsed="true">
+    <Position X="30.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\FillTriangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.Polygon" Collapsed="true">
+    <Position X="29.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Polygon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.Rhombus" Collapsed="true">
+    <Position X="34.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Rhombus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.Rectangle" Collapsed="true">
+    <Position X="27" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgQAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.Square" Collapsed="true">
+    <Position X="20.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.Trapeze" Collapsed="true">
+    <Position X="23.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Trapeze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Classes.Triangle" Collapsed="true">
+    <Position X="30.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAgAAAAAAAAAAAwAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Triangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Line" Collapsed="true">
+    <Position X="16.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAgAAAAAAAAAAAAAAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>Classes\Line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projekt2_Aksamitnyi62325.Point" Collapsed="true">
+    <Position X="23.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAAAAAAAgAAABBAAAAQAAAAQACAAABgAAAAAAA=</HashCode>
+      <FileName>Classes\Point.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
